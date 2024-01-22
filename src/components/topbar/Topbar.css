@@ -1,0 +1,58 @@
+
+#topbar {
+    background: #1A2B48;
+    padding: 10px 0;
+    font-size: 14px;
+  }
+  
+.topbar .contact-info i {
+    font-style: normal;
+    color: #f03c02;
+  }
+  
+.topbar .contact-info i a,
+.topbar .contact-info i span {
+    padding-left: 8px;
+    color: #fff;
+  }
+  
+.topbar .contact-info i a {
+    line-height: 0;
+    transition: 0.3s;
+    color:#fff;
+    text-decoration: none;
+  }
+  
+.topbar .contact-info i a:hover {
+    color: #f03c02;
+  }
+  
+.topbar .social-links a {
+    color: #fff;
+    line-height: 0;
+    transition: 0.3s;
+    margin-left: 15px;
+  }
+  
+.topbar .social-links a:hover {
+     color:#e27b71!important;
+    
+  }
+  
+/*===================--- TOPBAR LINKS---=================== */
+
+.topbar-links{
+  margin:0 10px;
+  text-decoration:none;
+  color:#fff;
+  font-size: 12px;
+  border-right:1px solid #eee;
+  padding-right:10px;
+}
+.contact-info a:nth-child(3){
+  border-right:none!important;
+}
+.topbar-links:hover{
+  color:#e27b71!important;
+  transition: 0.3s ease;
+}

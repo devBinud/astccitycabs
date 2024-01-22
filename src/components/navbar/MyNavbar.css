@@ -1,0 +1,36 @@
+/* Fonts */
+:root {
+  --font-default:'Montserrat', sans-serif;;
+}
+.navbar-brand img{
+    max-width:140px;
+}
+.nav-item .nav-link{
+    font-weight: 600;
+    color: #485664;
+    font-size: 16px;
+    font-family: var(--font-default);
+    margin: 0 3px;
+}
+.nav-item .nav-link:hover{
+    color: #de1e25;
+}
+.nav-item .nav-link .active{
+    color: #de1e25;
+}
+.nav__button{
+    padding: 10px 20px;
+    border-radius: 8px;
+    background: linear-gradient(180deg, #61CE70 0%, #61CE70 100%);
+    box-shadow: 0 8px 28px rgba(148, 24, 24, 0.2);
+    border: none;
+    outline: none;
+    font-weight: 600;
+    color: #fff;
+    font-family: var(--font-default);
+}
+.nav__button:hover{
+    background: linear-gradient(180deg, #61CE70 0%, #2f6636 100%);
+    transition: 0.3 ease all;
+    color:#fff;
+}

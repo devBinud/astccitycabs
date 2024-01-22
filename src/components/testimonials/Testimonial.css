@@ -1,0 +1,6 @@
+.testimonial-content{
+   /* border: 2px solid rgb(222 67 67 / 80%); */
+   border-radius: 15px;
+   padding: 40px 30px;
+   background: linear-gradient(45deg,rgba(249, 179, 178, 0.9), rgba(152, 201, 249, 0.75));
+}
