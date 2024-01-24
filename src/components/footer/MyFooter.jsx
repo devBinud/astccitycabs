@@ -27,6 +27,7 @@ const Footer = () => {
               <li><a href="#!">Ride With Us</a></li>
               <li><a href="#!">Charging Partners</a></li>
               <li><a href="#!">Terms of service</a></li>
+              <li><a href="#!">ASTC Support</a></li>
               <li><a href="#!">Privacy policy</a></li>
             </ul>
           </div>
@@ -37,6 +38,7 @@ const Footer = () => {
               <li><a href="#!">City Ride</a></li>
               <li><a href="#!">Northeast Trip</a></li>
               <li><a href="#!">Hotel Drop</a></li>
+              <li><a href="#!">Book Hotels</a></li>
               <li><a href="#!">Airport Trip</a></li>
             </ul>
           </div>

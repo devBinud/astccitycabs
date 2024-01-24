@@ -82,7 +82,7 @@ const Testimonial = () => {
                           delightful journey. Their service's reliability and
                           efficiency are unparalleled. From the quick booking
                           response to the courteous drivers and comfortable
-                          rides, I highly recommend them. ASTC Citycabs is the
+                          rides.ASTC Citycabs is the
                           ultimate choice for those seeking a smooth and
                           enjoyable transportation solution.
                           <i class="bi bi-quote quote-icon-right"></i>
@@ -91,105 +91,6 @@ const Testimonial = () => {
                         <h4>Sixmile , Guwahati</h4>
                       </div>
                     </div>
-                  </div>
-                </div>
-              </div>
-              {/* <!-- End testimonial item --> */}
-
-              <div class="swiper-slide">
-                <div class="testimonial-item">
-                  <div class="row gy-4 justify-content-center">
-                    <div class="col-lg-6">
-                      <div class="testimonial-content">
-                        <p>
-                          <i class="bi bi-quote quote-icon-left"></i>
-                          AstcCityCabs has become my preferred companion in
-                          navigating the city's bustling streets. The impeccable
-                          cleanliness of their cabs, the friendly and
-                          professional attitude of their drivers, and the
-                          seamless booking process through their app make every
-                          ride a pleasure. The convenience and reliability of
-                          AstcCityCabs have significantly elevated my
-                          transportation experience, making them the go-to
-                          choice for anyone in search of a dependable and
-                          enjoyable cab service
-                          <i class="bi bi-quote quote-icon-right"></i>
-                        </p>
-                        <h3>Sanjay Singh</h3>
-                        <h4>Lalganesh , Guwahati</h4>
-                      </div>
-                    </div>
-                    <div class="col-lg-2 text-center">
-                      <img
-                        src="assets/img/testimonials/1.jpg"
-                        class="img-fluid testimonial-img"
-                        alt=""
-                      />
-                    </div>
-                  </div>
-                </div>
-              </div>
-              {/* <!-- End testimonial item --> */}
-
-              <div class="swiper-slide">
-                <div class="testimonial-item">
-                  <div class="row gy-4 justify-content-center">
-                    <div class="col-lg-6">
-                      <div class="testimonial-content">
-                        <p>
-                          <i class="bi bi-quote quote-icon-left"></i>
-                          AstcCityCabs has not only met but exceeded my
-                          expectations in every aspect. The affordability,
-                          punctuality, and overall professionalism of their
-                          service have made them my trusted transportation
-                          partner. From the moment I book through their
-                          user-friendly app to the courteous interactions with
-                          their drivers, I am consistently impressed.
-                          AstcCityCabs has truly redefined the cab service
-                          experience for me, setting a standard of excellence
-                          that is hard to match.
-                          <i class="bi bi-quote quote-icon-right"></i>
-                        </p>
-                        <h3>Jeena Talukdar</h3>
-                        <h4>Maligaon , Guwahati</h4>
-                      </div>
-                    </div>
-                    <div class="col-lg-2 text-center">
-                      <img
-                        src="assets/img/testimonials/1.jpg"
-                        class="img-fluid testimonial-img"
-                        alt=""
-                      />
-                    </div>
-                  </div>
-                </div>
-              </div>
-              {/* <!-- End testimonial item --> */}
-
-              <div class="swiper-slide">
-                <div class="testimonial-item">
-                  <div class="row gy-4 justify-content-center">
-                    <div class="col-lg-6">
-                      <div class="testimonial-content">
-                        <p>
-                          <i class="bi bi-quote quote-icon-left"></i>
-                          AstcCityCabs stands out as a beacon of reliability in
-                          the crowded landscape of cab services. The prompt and
-                          efficient booking process, coupled with the
-                          consistently punctual drivers, has made my daily
-                          commute a breeze. Their commitment to customer
-                          satisfaction is evident in every aspect of their
-                          service, from the well-maintained cabs to the friendly
-                          and professional demeanor of their drivers. Choosing
-                          AstcCityCabs is an investment in a hassle-free and
-                          enjoyable travel experience.
-                          <i class="bi bi-quote quote-icon-right"></i>
-                        </p>
-                        <h3>Rohan Goswami</h3>
-                        <h4>Chandmari , Guwahati</h4>
-                      </div>
-                    </div>
-                    <div class="col-lg-2 text-center"></div>
                   </div>
                 </div>
               </div>
